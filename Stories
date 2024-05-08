@@ -14,4 +14,8 @@ As a customer, I should be able to signout so that I can exit safely from the sy
 
 
 
+notes
+while calling the createenquiry sp, from the loginenquiry sp store theb id somewhere and pass that id in paramerts in createenquiry. 
+
+
 
